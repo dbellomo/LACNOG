@@ -386,6 +386,7 @@ Gobernanza de los bienes comunes. Elinor Ostrom “El gobierno de los bienes com
 - ...
 
 
+
 # 
 
 ![](img/grafico.esquematico.red.drawio.png)
