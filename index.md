@@ -1,12 +1,14 @@
 ![](img/logo_LLRCC.png)
 
+**propuesta para LACNOC 2025**
+
 lugar y fecha
 
 
 
 #
 
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">Las Lagunitas Red comunitaria y científica de telecomunicaciones<br><br><br>
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">Las Lagunitas red comunitaria y científica de telecomunicaciones<br><br><br>
 <b><h2>La Universidad en el Territorio</b></h2></span><br><br><br>
 por <span property="cc:attributionName">daniel</span> <br>
 bajo licencia <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
@@ -24,7 +26,7 @@ bajo licencia <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" t
 
 - Campo Las Guindas (UNRC)
 - Paraje Las Lagunitas
-- La región: Alpa Corral, Cerro Colorado, Lutti, ...
+- La región: Cerro Colorado, Puchicanas, Lutti, ...
 <br /><br />
 
 ### [mapa del territorio](https://umap.hotosm.org/en/map/las-lagunitas_207#12/-32.5993/-64.6714)
